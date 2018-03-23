@@ -52,7 +52,7 @@ if (yargs.argv.options == 'remove') {
             index++;
         })
         if (flag == 0) {
-            console.log("element not found");
+            console.log("element not found....................");
         }
         else {
             writeData(data);
